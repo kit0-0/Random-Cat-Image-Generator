@@ -5,7 +5,7 @@ This is a simple web application that generates random cat images using the Cat 
 
 ## Live Demo
 
-[Click here for a live demo](https://kit0-0.github.io/random-cat-image-generator)
+[Click here for a live demo](https://kit0-0.github.io/Random-Cat-Image-Generator/)
 
 
 ## Features
